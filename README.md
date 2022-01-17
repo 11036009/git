@@ -1,3 +1,3 @@
 # HI
 
-![logo](.\imglogo.jpg)
+![logo](.\img\logo.jpg)
